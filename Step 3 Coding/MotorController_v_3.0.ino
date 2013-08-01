@@ -9,9 +9,9 @@
 //Forward, Backward, RotateLeft, RotateRight, Stop, and attachServo
 //by gskielian  < http://www.kielian.net > 
 
-double ForwardSpeed = 30.0;
-double RotateSpeed = 30.0;
-double BackwardSpeed = 30.0;
+double ForwardSpeed = 100.0;
+double RotateSpeed = 100.0;
+double BackwardSpeed = 100.0;
 
 #include <Servo.h> 
  
